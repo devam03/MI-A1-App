@@ -1,12 +1,12 @@
 {
 	"threads": [
 		{
-			"problem": "test problem 1",
-			"solution ": "test solution 1"
+			"problem": "i have this problem 1",
+			"solution ": "i have this solution 1"
 		},
 		{
-			"problem": "test problem 2",
-			"solution ": "test solution 2"
+			"problem": "i have that problem 2",
+			"solution ": "i have that solution 2"
 		}
 	]
 }
