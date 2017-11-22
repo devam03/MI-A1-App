@@ -1,5 +1,6 @@
 {
-	"threads": [{
+	"threads": [
+		{
 			"problem": "test problem 1",
 			"solution ": "test solution 1"
 		},
